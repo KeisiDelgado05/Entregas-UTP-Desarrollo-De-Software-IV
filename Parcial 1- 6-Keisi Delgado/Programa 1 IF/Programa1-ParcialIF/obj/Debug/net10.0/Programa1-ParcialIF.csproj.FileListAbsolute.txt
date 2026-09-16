@@ -1,0 +1,15 @@
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\bin\Debug\net10.0\Programa1-ParcialIF.exe
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\bin\Debug\net10.0\Programa1-ParcialIF.deps.json
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\bin\Debug\net10.0\Programa1-ParcialIF.runtimeconfig.json
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\bin\Debug\net10.0\Programa1-ParcialIF.dll
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\bin\Debug\net10.0\Programa1-ParcialIF.pdb
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.AssemblyInfoInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.AssemblyInfo.cs
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.csproj.CoreCompileInputs.cache
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.dll
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\refint\Programa1-ParcialIF.dll
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.pdb
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa1-ParcialIF.genruntimeconfig.cache
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\ref\Programa1-ParcialIF.dll
+C:\Users\Keisi Delgado\source\repos\Programa1-ParcialIF\Programa1-ParcialIF\obj\Debug\net10.0\Programa.D2659CCA.Up2Date

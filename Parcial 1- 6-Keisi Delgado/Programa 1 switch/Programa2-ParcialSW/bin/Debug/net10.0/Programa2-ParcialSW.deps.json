@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Programa2-ParcialSW/1.0.0": {
+        "runtime": {
+          "Programa2-ParcialSW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa2-ParcialSW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
