@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\peoplelinqdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\peoplelinqdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\frmpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\frmpersona.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|c:\\users\\usuario\\onedrive\\documentos\\des soft 4\\crudwindowsformslinq\\crudwindowsformslinq\\personas.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\personas.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\crudwindowsformslinq\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57887C-A33A-487D-914D-44B86BF053CE}|CrudWindowsFormsLinq\\CrudWindowsFormsLinq.csproj|solutionrelative:crudwindowsformslinq\\frmpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.cs",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\Form1.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAlwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:08:50.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleLinqDB.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\PeopleLinqDB.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\PeopleLinqDB.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\PeopleLinqDB.cs",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\PeopleLinqDB.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwDwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:43:33.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personas.dbml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Personas.dbml",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\Personas.dbml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Personas.dbml",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\Personas.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-10-09T02:19:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\FrmPersona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\FrmPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:03:03.838Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:56:02.092Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\Form1.Designer.cs",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T04:04:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersona.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.Designer.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\FrmPersona.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.Designer.cs",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\FrmPersona.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwH8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T03:16:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPersona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.cs",
+              "RelativeDocumentMoniker": "CrudWindowsFormsLinq\\FrmPersona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Des Soft 4\\CrudWindowsFormsLinq\\CrudWindowsFormsLinq\\FrmPersona.cs",
+              "RelativeToolTip": "CrudWindowsFormsLinq\\FrmPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:41:57.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
