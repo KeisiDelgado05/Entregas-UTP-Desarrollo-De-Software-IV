@@ -7,8 +7,7 @@ namespace CrudWindowsForms
     public class PeopleDB
     {
       
-        private readonly string connectionString =
-            "Server=(localdb)\\MSSQLLocalDB;Database=CrudWindowsForms;Integrated Security=True;TrustServerCertificate=True;";
+        private readonly string connectionString = @"Server=(localdb)\MSSQLLocalDB;Database=CrudWindowsForms;Trusted_Connection=True;TrustServerCertificate=True;";
 
         // Abre y cierra una conexión. Si algo falla, lanza la excepción
         // para que el formulario la capture y muestre el mensaje.

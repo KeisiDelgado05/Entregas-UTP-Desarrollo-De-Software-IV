@@ -15,4 +15,3 @@ VALUES ('Ana', 20), ('Luis', 25), ('Maria', 22);
 GO
 
 SELECT Id, Name, Age FROM dbo.People ORDER BY Id;
-
